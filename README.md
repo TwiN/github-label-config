@@ -9,5 +9,5 @@ Personal preferences for labels on GitHub
 | critical    | Introduce a critical change | `#EE0701` | ![critical](https://twinnation.org/api/v1/i/gh-label-critical.png) |
 | major       | Introduce a major change | `#FBCA04` | ![major](https://twinnation.org/api/v1/i/gh-label-major.png) |
 | minor       | Introduce a minor change | `#0E8A16` | ![minor](https://twinnation.org/api/v1/i/gh-label-minor.png) |
-| feature     | Introduce a new feature | `#1111FF` | TODO |
+| feature     | Introduce a new feature | `#0052cc` | TODO |
 
