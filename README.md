@@ -10,4 +10,5 @@ Personal preferences for labels on GitHub
 | major       | Introduce a major change | `#FBCA04` | ![major](https://twinnation.org/api/v1/i/gh-label-major.png) |
 | minor       | Introduce a minor change | `#0E8A16` | ![minor](https://twinnation.org/api/v1/i/gh-label-minor.png) |
 | feature     | Introduce a new feature | `#0052cc` | TODO |
+| wip         | Work in progress - PRs with this label must not be merged | `#EE0701` | TODO |
 
